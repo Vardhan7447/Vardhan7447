@@ -1,8 +1,8 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1581092919535-7146ff1a5902?q=80&w=1200&auto=format&fit=crop" 
-style="width:100%; max-width:900px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Coder with Mask" />
+<img src="https://user-images.githubusercontent.com/74038190/212259864-3d8b9c07-0d77-4c44-9b61-0ecb5f62c0df.gif" 
+style="width:100%; max-width:900px; border-radius:18px;" alt="Coder Animation" />
 
 <br><br>
 
@@ -29,7 +29,7 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 - 🤖 Focused on becoming a **production-ready AI/ML Engineer**
 - 🧩 Strong foundation in **Machine Learning, Data Science & Backend Systems**
 - ⚙️ Building **end-to-end intelligent applications**
-- 📈 Interested in **real-world impact through AI systems, not just models**
+- 📈 Interested in solving **real-world problems using AI**
 
 ---
 
@@ -43,10 +43,10 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 
 ## 🛠️ What I Build
 
-- 🧠 AI systems that **learn from data and make decisions**
-- ⚡ Scalable **backend architectures & APIs**
-- 📊 Data-driven **prediction & analytics systems**
-- 🌐 Full stack apps integrated with **ML models**
+- 🧠 Intelligent systems that **learn from data**
+- ⚡ Scalable **backend systems & APIs**
+- 📊 **Prediction models** & analytics dashboards
+- 🌐 Full stack apps integrated with **AI models**
 
 ---
 
@@ -54,10 +54,10 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 🍷 Wine Quality Prediction | ML model to predict wine quality using structured data | Python, Scikit-learn |
-| 🖼️ Watermarking Attack & Recovery | Image security system with attack simulation & recovery | OpenCV, Python |
-| 📊 Statistics-Colab | Data analysis & ML experiments in notebooks | Pandas, NumPy |
-| 🎓 AI Student Dashboard | Predictive academic system with insights & analytics | MERN, ML |
+| 🍷 Wine Quality Prediction | ML model predicting wine quality | Python, Scikit-learn |
+| 🖼️ Watermarking Attack & Recovery | Image security & recovery system | OpenCV, Python |
+| 📊 Statistics-Colab | Data analysis & ML notebooks | Pandas, NumPy |
+| 🎓 AI Student Dashboard | Academic prediction & analytics system | MERN, ML |
 
 ---
 
@@ -65,19 +65,19 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 
 | Project | Description |
 |--------|------------|
-| 🩸 Blood Donation App | Full-stack healthcare system with user & admin flows |
-| 📝 EchoSpace Blog CMS | Role-based blog platform with authentication & CRUD |
-| 🌐 Portfolio Website | AI-focused personal brand & project showcase |
-| ✅ React Todo App | Clean UI with modern React practices |
+| 🩸 Blood Donation App | Full-stack healthcare platform |
+| 📝 EchoSpace Blog CMS | Role-based blog system with CRUD |
+| 🌐 Portfolio Website | AI-focused personal website |
+| ✅ React Todo App | Responsive UI with modern React |
 
 ---
 
 ## 📚 Currently Exploring
 
-- Deep Learning & Neural Architectures  
-- MLOps & Model Deployment Pipelines  
+- Deep Learning Architectures  
+- MLOps & Model Deployment  
 - Cloud-based AI Systems (AWS)  
-- System Design for AI Applications  
+- System Design for Scalable Apps  
 
 ---
 
@@ -111,12 +111,12 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 
 ## 🎯 Vision
 
-> I build systems where **data meets intelligence** — transforming ideas into scalable AI solutions that create real impact.
+> I build systems where **data meets intelligence** — creating scalable AI solutions that deliver real impact.
 
 ---
 
 <div align="center">
 
-### ⚡ Building the future with AI, one system at a time
+### ⚡ Building the future with AI
 
 </div>
