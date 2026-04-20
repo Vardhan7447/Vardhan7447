@@ -1,14 +1,12 @@
 <!-- HERO SECTION -->
-<div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1zupEWC2J9vA_lBIP8nbCrkGg3rrlMMOS" 
-style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Aman Raj Banner" />
-</div>
-
-<br>
-
 <div align="center">
 
-# 🚀 Aman Raj
+<img src="https://images.unsplash.com/photo-1581092919535-7146ff1a5902?q=80&w=1200&auto=format&fit=crop" 
+style="width:100%; max-width:900px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Coder with Mask" />
+
+<br><br>
+
+# 🚀 Vardhan
 ### AI Engineer in Progress | Full Stack Developer | Building Intelligent Systems
 
 I design and develop **AI-powered applications** that combine Machine Learning, Data Science, and scalable web technologies to solve meaningful real-world problems.
@@ -88,7 +86,7 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aman-raj-081905211">
-<img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vardhan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://twitter.com/Code_Like_Aman">
@@ -104,7 +102,7 @@ I design and develop **AI-powered applications** that combine Machine Learning, 
 </a>
 
 <a href="https://www.hackerrank.com/profile/aman08_stars">
-<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-Vardhan-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
